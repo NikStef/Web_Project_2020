@@ -1,4 +1,4 @@
-# ProjectWeb2020
+# Mapico
 
 <p align="center">
   <img src="https://github.com/NikStef/Web_Project_2020/blob/main/ProjectWeb2020/logo.png" alt="Project Logo" width="200"/>
@@ -8,7 +8,7 @@
 
 ### Final Project for Web Course (2020)
 
-**ProjectWeb2020** processes, analyzes, and visualizes network traffic data. It integrates data collection, geolocation, storage, and visualization features, along with user authentication and profile management.
+**Mapico** processes, analyzes, and visualizes network traffic data. It integrates data collection, geolocation, storage, and visualization features, along with user authentication and profile management.
 
 ## Features
 - **Data Collection**: Processes network traffic in JSON format.
