@@ -1,4 +1,12 @@
 # ProjectWeb2020
-#Mapico
-Old project about the basics of html-css-php-sql and some very basic javascript.Features a site that  creates a heatmap of the ips of the locations a user visits and uploads to the system.
-Also my navbar is the best.
+
+![Project Logo](https://github.com/NikStef/Web_Project_2020/blob/main/ProjectWeb2020/logo.png)
+
+## Introduction
+**ProjectWeb2020** processes, analyzes, and visualizes network traffic data. It integrates data collection, geolocation, storage, and visualization features.
+
+## Features
+- **Data Collection**: Processes network traffic in JSON format.
+- **IP Geolocation**: Fetches geolocation data.
+- **Data Storage**: Stores data in MySQL.
+- **Visualization**: User-friendly data visualization.
