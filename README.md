@@ -1,7 +1,7 @@
 # ProjectWeb2020
 
 <p align="center">
-  <img src="https://github.com/NikStef/Web_Project_2020/blob/main/ProjectWeb2020/logo.png" alt="Project Logo" width="200"/>
+  <img src="https://github.com/NikStef/Web_Project_2020/blob/main/ProjectWeb2020/logo.png" alt="Project Logo" width="100"/>
 </p>
 
 ## Introduction
